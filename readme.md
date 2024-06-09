@@ -134,6 +134,7 @@ Dataset Source: [Disaster Tweets Dataset] (https://drive.google.com/file/d/1eslD
 - `alertsphere.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and evaluation with User Interface build with Tkinter.
 - `AlertSphere_frontend.py`: Python script containing the code for the front-end of the AlertSphere application.
 - `requirements.txt`: Text file listing the dependencies required to run the code.
+- `Developers.txt`: Text file listing the names of developers & collaborators.
 - `disaster_tweets_data(DS).xlsx`: Directory containing the dataset used in the project.
 - `images/`: Directory containing various images used in the project, such as charts and visualizations.
 - `alertsphere_model.pkl`: Pickled file containing the trained AlertSphere model.
