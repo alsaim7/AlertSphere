@@ -180,7 +180,7 @@ Dataset Source: [Disaster Tweets Dataset] (https://drive.google.com/file/d/1eslD
 - tkinter (Built-in tkinter module used in Python, no specific version needed)
 
 ## Collaborators
-- __[Al Saim Shakeel](https://github.com/username1) : Project Leader__
+- __[Al Saim Shakeel](https://github.com/alsaim7) : Project Leader__
 - __[Mohd. Faraz Khan]__
 - __[Ahtisham Riyasat]__
 
