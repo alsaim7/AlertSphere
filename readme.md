@@ -179,8 +179,8 @@ Dataset Source: [Disaster Tweets Dataset] (https://drive.google.com/file/d/1eslD
 - joblib: 1.1.1
 - tkinter (Built-in tkinter module used in Python, no specific version needed)
 
-## Credits
-- __[Al Saim Shakeel] : Project Leader__
+## Collaborators
+- __[Al Saim Shakeel](https://github.com/username1) : Project Leader__
 - __[Mohd. Faraz Khan]__
 - __[Ahtisham Riyasat]__
 
