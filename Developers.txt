@@ -1,0 +1,5 @@
+﻿AlertSphere: Disaster Tweet Detector
+
+    • Al Saim Shakeel (Leader)
+    • Mohd. Faraz Khan
+    • Ahtisham Riyasat
